@@ -1,0 +1,41 @@
+================================================================================
+COMPREHENSIVE PYTHON vs R COMPARISON TEST
+================================================================================
+
+Testing: Basic letters, full=False, N=None
+  Parameters: dataset=letters, full=False, N=None
+  ✓ PASS: Identical results
+
+Testing: Letters, full=True, N=None
+  Parameters: dataset=letters, full=True, N=None
+  ✓ PASS: Identical results
+
+Testing: Letters, full=False, N=15
+  Parameters: dataset=letters, full=False, N=15
+  ✓ PASS: Identical results
+
+Testing: Letters, full=False, N=20
+  Parameters: dataset=letters, full=False, N=20
+  ✓ PASS: Identical results
+
+Testing: cellCycleKO, full=False, N=None
+  Parameters: dataset=cellCycleKO, full=False, N=None
+  ✓ PASS: Identical results
+
+Testing: cellCycleKO, full=True, N=None
+  Parameters: dataset=cellCycleKO, full=True, N=None
+  ✓ PASS: Identical results
+
+Testing: cellCycleKO, full=False, N=6178
+  Parameters: dataset=cellCycleKO, full=False, N=6178
+  ✓ PASS: Identical results
+
+================================================================================
+SUMMARY
+================================================================================
+Total tests: 7
+Passed: 7
+Failed: 0
+
+🎉 ALL TESTS PASSED! Python and R implementations are identical.
+================================================================================

@@ -1,0 +1,9 @@
+name: pyrra_compare
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - r-base>=4.2
+  - r-robustrankaggreg
+  - pip
